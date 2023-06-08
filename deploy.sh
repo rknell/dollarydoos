@@ -1,0 +1,1 @@
+gcloud beta run deploy dollarydoos-server --source . --allow-unauthenticated --project=dollarydoos --region=us-west1
